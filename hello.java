@@ -5,7 +5,7 @@ public statis void main ( string args[])
 
 {
 
-system.out.printin("committing changes from child branch , changing author name again ");
+system.out.printin("commit changes from remote, changing author name again ");
 
 
 
